@@ -1,0 +1,7 @@
+{
+    "require": {
+        "itigoppo/backlog-api": "^1.1",
+        "polidog/esa-php": "^2.0",
+        "nesbot/carbon": "^2.21"
+    }
+}
