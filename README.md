@@ -1,6 +1,11 @@
 # backlog2esa
 [backlog](https://backlog.com/ja/) の課題を取り出し、 [esa](https://esa.io/) に転記する。
 
+# インストール
+1. `git clone git@github.com:soudai/backlog2esa.git`
+1. `cd backlog2esa`
+1. `composer install`
+
 # 使い方(How to)
 
 1. 事前にesaに元になるtemplateを作成する
